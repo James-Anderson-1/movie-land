@@ -25,9 +25,15 @@ const App = () => {
   return (
     // ----------------------- Major Returns Section ---------------------
     <div className="app">
-      <h1>J. Anderson's Movie Index</h1>
-      <h2>Powered by OMDB API</h2>
-      <h3>Enter a keyword and press the magnifier glass 🔍</h3>
+      <h1>Ez Movie Index</h1>
+
+      <h3>Enter a keyword and press 🔍</h3>
+        <h5>---</h5>
+            <h5>Powered by OMDB API</h5>
+                <h5>---</h5>
+        <h5>Designed and Deployed by </h5>
+
+        <h5> James D. Anderson</h5>
 
       <div className="search">
         <input
