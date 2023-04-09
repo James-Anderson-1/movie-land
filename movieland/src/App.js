@@ -27,6 +27,7 @@ const App = () => {
     <div className="app">
       <h1>J. Anderson's Movie Index</h1>
       <h2>Powered by OMDB API</h2>
+      <h3>Enter a keyword and press the magnifier glass 🔍</h3>
 
       <div className="search">
         <input
