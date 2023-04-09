@@ -26,7 +26,7 @@ const App = () => {
     // ----------------------- Major Returns Section ---------------------
     <div className="app">
       <h1>J. Anderson's Movie Index</h1>
-      {/*<h2>Powered by OMDB API</h2>*/}
+      <h2>Powered by OMDB API</h2>
 
       <div className="search">
         <input
