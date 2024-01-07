@@ -1,2 +1,3 @@
-# MovieLand
-A deployed react application
+# Ez Movie Index
+![Uploading image.png…]()
+
